@@ -1,0 +1,1 @@
+java -Xmx1024m -cp facebook.jar httpget.crawler.PostsCrawler "xadontreotuongverygood" "964754263647531"
